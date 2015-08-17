@@ -1,3 +1,3 @@
 # Screenscrap1.0
 Screen Scrapper
-Getting Started
+Getting Started with Git
